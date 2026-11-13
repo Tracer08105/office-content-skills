@@ -76,6 +76,8 @@ Windows 用户目录示例为 `%USERPROFILE%\.agents\skills\`；macOS / Linux �
 
 调用时附上实际材料、目标读者和必要约束。完整的示例输入及检查要点见 [使用场景](examples/requests.md)。
 
+粘贴会议记录、工作日志或邮件原文前，请先将姓名、联系方式等敏感信息替换为占位符。
+
 ## 仓库结构
 
 ```text
